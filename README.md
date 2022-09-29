@@ -1,6 +1,6 @@
 This is a guide on how to create weirdcore! Keep in mind that this is not a step-by-step guide, nor do you have to follow anything in this guide religiously (see what I did there?). It’s just a collection of tips and tricks that I use while making my images. If you have any other questions about how I achieved any effect, don’t be afraid to DM me or send an ask!
 
--
+
 
 Before you read…
 -Do not take anything in this guide too literally. These are recommendations, not rules! I absolutely encourage you to experiment and have fun while creating weirdcore.
@@ -9,7 +9,7 @@ Before you read…
 
 -This guide is still incomplete. Check back often for updates!
 
--
+
 
 How to make images look “dreamy” or “faded”
 This will make your images appear dreamlike! I use this for nearly every edit I make. I will be using this image as an example. I tend to blur my images after I’ve added everything I want to the edit first. This ensures that everything in the edit is blurred and blends well.
